@@ -1,4 +1,4 @@
-# mBedProject
+# mBed Project
 
 This project was completed in my first term at the university of Kent.
 
